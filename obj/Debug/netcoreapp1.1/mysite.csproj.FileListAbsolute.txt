@@ -1,0 +1,8 @@
+D:\Dev\mysite\bin\Debug\netcoreapp1.1\mysite.deps.json
+D:\Dev\mysite\bin\Debug\netcoreapp1.1\mysite.runtimeconfig.json
+D:\Dev\mysite\bin\Debug\netcoreapp1.1\mysite.runtimeconfig.dev.json
+D:\Dev\mysite\bin\Debug\netcoreapp1.1\mysite.dll
+D:\Dev\mysite\bin\Debug\netcoreapp1.1\mysite.pdb
+D:\Dev\mysite\obj\Debug\netcoreapp1.1\mysite.AssemblyInfo.cs
+D:\Dev\mysite\obj\Debug\netcoreapp1.1\mysite.dll
+D:\Dev\mysite\obj\Debug\netcoreapp1.1\mysite.pdb

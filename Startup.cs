@@ -38,6 +38,8 @@ namespace mysite
             loggerFactory.AddDebug();
 
             app.UseMvc();
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
         }
     }
 }
